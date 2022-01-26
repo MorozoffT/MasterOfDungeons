@@ -1,4 +1,4 @@
-# Master of Dungen's
+# Master of Dungeon's
 
 Игра, написанная на языке python, с использованием библиотеки pygame.
 
